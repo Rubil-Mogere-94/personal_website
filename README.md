@@ -133,7 +133,7 @@ If you have any questions or feedback, feel free to reach out:
 
 - **Email**: mogererubil@gmail.com
 - **LinkedIn**: [Your Name](https://linkedin.com/in/yourusername)
-- **GitHub**: [Your Username](https://github.com/yourusername)
+- **GitHub**: [Your Username](https://github.com/Rubil-Mogere-94)
 
 ---
 
