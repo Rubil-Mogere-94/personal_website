@@ -132,8 +132,8 @@ This project is licensed under the **MIT License**. Feel free to use, modify, an
 If you have any questions or feedback, feel free to reach out:
 
 - **Email**: mogererubil@gmail.com
-- **LinkedIn**: [Your Name](https://linkedin.com/in/yourusername)
-- **GitHub**: [Your Username](https://github.com/Rubil-Mogere-94)
+- **LinkedIn**: [Rubil Mogere](https://linkedin.com/in/yourusername)
+- **GitHub**: [Rubil Mogere](https://github.com/Rubil-Mogere-94)
 
 ---
 
